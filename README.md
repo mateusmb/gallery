@@ -2,7 +2,7 @@
 
 A photo gallery with a layout inspired by Instagram. Upload and view photos.
 
-![Gallery Demo Gif](https://i.imgur.com/xLZcH9j.mp4)
+![Gallery Demo Gif](https://media.giphy.com/media/WUdepz7VkkIAUDWMkg/giphy.gif)
 
 ## Libs and frameworks
 
